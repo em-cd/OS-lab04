@@ -1,0 +1,6 @@
+format_version,bonnie_version,name,concurrency,seed,file_size,io_chunk_size,putc,putc_cpu,put_block,put_block_cpu,rewrite,rewrite_cpu,getc,getc_cpu,get_block,get_block_cpu,seeks,seeks_cpu,num_files,max_size,min_size,num_dirs,file_chunk_size,seq_create,seq_create_cpu,seq_stat,seq_stat_cpu,seq_del,seq_del_cpu,ran_create,ran_create_cpu,ran_stat,ran_stat_cpu,ran_del,ran_del_cpu,putc_latency,put_block_latency,rewrite_latency,getc_latency,get_block_latency,seeks_latency,seq_create_latency,seq_stat_latency,seq_del_latency,ran_create_latency,ran_stat_latency,ran_del_latency
+1.98,1.98,chasseral-1,1,42,256M,,0,0,80,99,17317,96,13063,96,524,99,111975,99,,,,,,,,,,,,,,,,,,,,13502us,313us,574ms,515us,63us,,,,,,,
+1.98,1.98,chasseral-1,1,42,256M,,0,0,80,99,17377,96,12975,97,522,99,110077,99,,,,,,,,,,,,,,,,,,,,11764us,293us,137ms,540us,63us,,,,,,,
+1.98,1.98,chasseral-1,1,42,256M,,0,0,80,99,17437,97,12878,96,524,99,111239,99,,,,,,,,,,,,,,,,,,,,14317us,321us,80949us,513us,61us,,,,,,,
+1.98,1.98,chasseral-1,1,42,256M,,0,0,80,99,17414,96,13042,96,521,99,106260,99,,,,,,,,,,,,,,,,,,,,14044us,344us,563ms,514us,62us,,,,,,,
+1.98,1.98,chasseral-1,1,42,256M,,0,0,80,99,17300,96,13087,96,519,99,110106,99,,,,,,,,,,,,,,,,,,,,65616us,335us,661ms,535us,61us,,,,,,,
